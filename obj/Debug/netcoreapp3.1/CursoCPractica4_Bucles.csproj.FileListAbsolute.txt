@@ -1,0 +1,14 @@
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\bin\Debug\netcoreapp3.1\CursoCPractica4_Bucles.exe
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\bin\Debug\netcoreapp3.1\CursoCPractica4_Bucles.deps.json
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\bin\Debug\netcoreapp3.1\CursoCPractica4_Bucles.runtimeconfig.json
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\bin\Debug\netcoreapp3.1\CursoCPractica4_Bucles.runtimeconfig.dev.json
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\bin\Debug\netcoreapp3.1\CursoCPractica4_Bucles.dll
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\bin\Debug\netcoreapp3.1\CursoCPractica4_Bucles.pdb
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.csproj.AssemblyReference.cache
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.AssemblyInfoInputs.cache
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.AssemblyInfo.cs
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.csproj.CoreCompileInputs.cache
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.dll
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.pdb
+C:\Users\vmarchena.AYESA.000\source\repos\CursoCSharp\CursoCPractica4\obj\Debug\netcoreapp3.1\CursoCPractica4_Bucles.genruntimeconfig.cache
