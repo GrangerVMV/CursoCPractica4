@@ -49,6 +49,22 @@ namespace CursoCPractica4_Bucles
             { // en el buble do while entra aunque sea una vez
                 Console.WriteLine($"El valor de z es {z}");
             } while (z < 10);
+
+            // Cuarto ejemplo: quiz numero aleatorio con Do While
+            // En este cado no hace falta inicializar la variable numeroElegido con el valor 101
+            Random referenciaARandom2 = new Random();
+            int numeroAleatorio2 = referenciaARandom.Next(0, 100);
+            Console.WriteLine("Por favor, elige un número del 0-100");
+            int numeroElegido2;
+            int numIntentos2 = 0;
+            
+            do {
+                numIntentos2++;
+                numeroElegido2 = int.Parse(Console.ReadLine());
+                if (numeroAleatorio2 > numeroElegido2) Console.WriteLine("Vuelve a intentarlo, el número es mayor que el que has elegido");
+                else if (numeroAleatorio2 < numeroElegido2) Console.WriteLine("Vuelve a intentarlo, el número es menor que el que has elegido");
+            } while (numeroElegido2 != numeroAleatorio2) ;
+                Console.WriteLine($"Enhorabuena, el número secreto era el {numeroAleatorio2} y has acertado en {numIntentos2} intentos");
         }
     }
 }
