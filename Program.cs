@@ -5,11 +5,11 @@ namespace CursoCPractica4_Bucles
     class Program
     {
         static void Main(string[] args)
-         // Primer ejemplo: Uso de bucle While
+        // Primer ejemplo: Uso de bucle While
         {
             Console.WriteLine("¿Deseas entrar en el bucle While?");
             string respuesta = Console.ReadLine();
-            while (respuesta != "no") 
+            while (respuesta != "no")
             {
                 Console.WriteLine("Estás ejecutando el interior del bucle while");
                 Console.WriteLine("Por favor, introduce tu nombre");
@@ -34,6 +34,22 @@ namespace CursoCPractica4_Bucles
                 else if (numeroAleatorio < numeroElegido) Console.WriteLine("Vuelve a intentarlo, el número es menor que el que has elegido");
             }
             Console.WriteLine($"Enhorabuena, el número secreto era el {numeroAleatorio} y has acertado en {numIntentos} intentos");
+
+            // Tercer ejemplo: Comparativa entre bucle While y Do While
+            // El bucle do while es similar al while, pero nos asegura que el programa siempre entra en el buble mínimo una vez (aunque no cumpla la condición)
+
+            int z = 10;
+            while (z < 10) // nunca entra en este bucle porque no se cumple la condición
+            {
+                Console.WriteLine($"El valor de z es {z}");
+            }
+
+
+            do
+            { // en el buble do while entra aunque sea una vez
+                Console.WriteLine($"El valor de z es {z}");
+            } while (z < 10);
         }
     }
 }
+
